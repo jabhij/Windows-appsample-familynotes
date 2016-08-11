@@ -61,7 +61,6 @@ Also, some additional discussion and information about the sample is available o
 * [FamilyNotes: Introducing a Windows UWP sample using ink, speech, and face recognition](https://blogs.windows.com/buildingapps/2016/06/21/familynotes-introducing-a-windows-uwp-sample-using-ink-speech-and-face-recognition/)  
 * [FamilyNotes: Using the camera to detect a user](https://blogs.windows.com/buildingapps/2016/06/28/familynotes-using-the-camera-to-detect-a-user/)  
 * [FamilyNotes: (Spoken) words and pictures](https://blogs.windows.com/buildingapps/2016/07/05/familynotes-spoken-words-and-pictures/)  
-
 ## Code at a glance
 
 If you are interested in code snippets and don’t want to browse or run the full sample, check out the following files for examples of some highlighted features:
